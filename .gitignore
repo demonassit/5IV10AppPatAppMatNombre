@@ -1,3 +1,11 @@
 /04DES/target/
 /05AES/target/
 /07RSAManita/nbproject/private/
+/RSALib/nbproject/private/
+/RSALib/build/
+/FirmaRSA/nbproject/private/
+/FirmaRSA/build/
+/10ExportarLLaves/nbproject/private/
+/10ExportarLLaves/build/
+/11ArchivosSecretos/nbproject/private/
+/11ArchivosSecretos/build/
